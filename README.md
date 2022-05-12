@@ -20,7 +20,7 @@ Um link interessante para conhecer este amplificador é o site da  [Adafruit](ht
 
 ## Vídeos no Youtube
 
-Através do canal do LSI - Laboratório de Suporte a Inovação, temos um canal no Youtuve com uma serie de vídeos detalhando o passa a passo dessa construção.
+Através do canal do LSI - Laboratório de Suporte a Inovação, temos um canal no Youtube com uma serie de vídeos detalhando o passo a passo dessa construção.
 
 [Benevid Felix Silva - YouTube](https://www.youtube.com/channel/UCi7gBAP6aJ4a9hklch_a1zw/)
 
@@ -31,3 +31,5 @@ Através do canal do LSI - Laboratório de Suporte a Inovação, temos um canal 
 - Bluetooth A2DP API - https://github.com/pschatzmann/ESP32-A2DP
 
 - Biblioteca Original dWin LCD HMI Arduino - https://github.com/akkoyun/dWin
+
+- Software Degus e demais ferramentas da Dwin - https://www.dwin-global.com/tool/
