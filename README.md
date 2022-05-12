@@ -2,7 +2,7 @@
 
 > Exemplo de um Music Player com Display Dwin e Esp32
 
-![Slide1.jpeg](/Users/benevidfelixsilva/Code/DwinMusicPlayer/Slide1.jpeg)
+![Slide1.jpeg](Slide1.jpeg)
 
 ## Display HMI
 
