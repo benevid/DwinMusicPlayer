@@ -1,0 +1,10 @@
+Artist - Text VP 0A00
+Track - Text PV 0B00
+
+Botoes
+
+Anterior 	- Synchrondata return - Mode 0x01 - VP1S(0x) 1010 - VP1T(0x) 0001 - Data Length 4
+Proxima 	- Synchrondata return -	Mode 0x01 - VP1S(0x) 1010 - VP1T(0x) 0002 - Data Length 4
+Pause 		- Synchrondata return - Mode 0x01 - VP1S(0x) 1010 - VP1T(0x) 0003 - Data Length 4
+Play 		- Synchrondata return - Mode 0x01 - VP1S(0x) 1010 - VP1T(0x) 0004 - Data Length 4
+Stop 		- Synchrondata return - Mode 0x01 - VP1S(0x) 1010 - VP1T(0x) 0005 - Data Length 4
